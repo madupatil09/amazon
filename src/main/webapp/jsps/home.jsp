@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>BLDEA's- Home Page</title>
-<link href="images/bldea.jpg" rel="icon">
+<link href="images/bldea.jpg" rel="image">
 </head>
 </head>
 <body>
